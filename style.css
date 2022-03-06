@@ -1,0 +1,19 @@
+body {
+  background: lightblue;
+}
+.bigRed {
+  background-color: red;
+  color: white;
+  cursor: pointer;
+}
+.centered {
+  text-align: center;
+  margin: 10%;
+}
+
+
+.credits {
+    text-align: center;
+  
+  
+}
