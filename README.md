@@ -1,6 +1,6 @@
 # Clicking Game
 -----------------------------------------
-Play now https://blue-ring-ravioli.glitch.me/
+Play [now](https://blue-ring-ravioli.glitch.me/)
 ---------------------------------------------------
 Its just a clicking game with css, html and javascript.
 ------------------------------------------------------
